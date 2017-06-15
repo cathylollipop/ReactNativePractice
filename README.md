@@ -7,3 +7,4 @@ Learn how to use React Native only to write a little demo and how to refactor it
 
 ## demo 2: twitter home page
 Learn how to use TabBarIOS and Icon.TabBarItem. Learn how to use ScrollView with RefreshControl. Pretty fun!
+![twitter](https://user-images.githubusercontent.com/20292261/27199353-516d0c06-51db-11e7-878c-71069431828f.jpeg)
